@@ -2,9 +2,7 @@
 
 Product leader. I take AI from strategy to shipped product.
 
-Software engineer first, then product and design across agencies, startups, and enterprises. Most recently I led enterprise technology innovation for North America at Molson Coors and owned the company's enterprise AI strategy: I ran the executive workshop series, wrote the roadmap and the board deck, and won board approval and dedicated investment. Before that I led discovery and design for an AI-driven underwriting platform serving 50,000 users across 30 carriers, where straight-through processing rose from about 75% to 95% and cycle time fell from weeks to under a day.
-
-Today I run Top Set, my independent product strategy practice, and build AI-native. Everything below I scoped, built, and shipped myself.
+Software engineer first, then product and design across agencies, startups, and enterprises, most recently as head of technology innovation for North America at Molson Coors. Today I run Top Set, my independent product strategy practice, and build AI-native. Everything under Shipped here I scoped, built, and shipped myself.
 
 ## Shipped here
 
