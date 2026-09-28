@@ -1,6 +1,6 @@
 # Ash Dzick
 
-Product leader. I take AI from strategy to shipped product.
+AI-native product leader.
 
 Software engineer first, then product and design across agencies, startups, and enterprises, most recently as head of technology innovation for North America at Molson Coors. Today I run Top Set, my independent product strategy practice, and build AI-native. Everything under Shipped here I scoped, built, and shipped myself.
 
