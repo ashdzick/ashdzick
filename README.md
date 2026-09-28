@@ -2,7 +2,7 @@
 
 AI-native product leader.
 
-Software engineer first, then product and design across agencies, startups, and enterprises, most recently as head of technology innovation for North America at Molson Coors. Today I run Top Set, my independent product strategy practice, and build AI-native. Everything under Shipped here I scoped, built, and shipped myself.
+I started my career as a software engineer, before leading product and design across agencies, startups and enterprises. Most recently I was Head of Tech Product Innovation at Molson Coors, covering North America. Today I run Top Set, my independent product strategy practice, and build AI-native. Everything under Shipped here I scoped, built, and shipped myself.
 
 ## Shipped here
 
